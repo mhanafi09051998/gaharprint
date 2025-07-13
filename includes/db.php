@@ -2,7 +2,7 @@
 // Database configuration
 define('DB_HOST', 'localhost');
 define('DB_USERNAME', 'root'); // Replace with your database username
-define('DB_PASSWORD', value: 'HNH25o6sG1tstyXuwIVP');     // Replace with your database password
+define('DB_PASSWORD', value: 'aqqttl0gesfq6e2qnajfcbiadk76rwos');     // Replace with your database password
 define('DB_NAME', 'gaharprint'); // Replace with your database name
 
 // Create a new MySQLi object
